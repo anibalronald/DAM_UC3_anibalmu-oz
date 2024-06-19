@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DAM_UC3_AnibalMuñoz</string>
+    <string name="Registrarse">boton_registrar</string>
+    <string name="Boton_registrar">Registrarte</string>
+    <string name="boton_entrar">Entrar</string>
+    <string name="input_nombre">Nombre:</string>
+    <string name="input_nombres">nombre</string>
+</resources>
